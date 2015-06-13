@@ -1,0 +1,18 @@
+﻿Build started 01.05.2015 23:49:20.
+     1>Project "E:\programming\Ubisoft\tetris_vc\tetris_vc\tetris_vc.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"SFML-2.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp myshape.cpp tetris.cpp
+         tetris.cpp
+         myshape.cpp
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\programming\Ubisoft\tetris_vc\Debug\tetris_vc.exe" /INCREMENTAL /NOLOGO /LIBPATH:"SFML-2.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" glew.lib freetype.lib jpeg.lib opengl32.lib winmm.lib gdi32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\programming\Ubisoft\tetris_vc\Debug\tetris_vc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\programming\Ubisoft\tetris_vc\Debug\tetris_vc.lib" /MACHINE:X86 Debug\main.obj
+         Debug\myshape.obj
+         Debug\tetris.obj
+         tetris_vc.vcxproj -> E:\programming\Ubisoft\tetris_vc\Debug\tetris_vc.exe
+     1>Done Building Project "E:\programming\Ubisoft\tetris_vc\tetris_vc\tetris_vc.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.95
